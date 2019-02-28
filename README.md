@@ -1,2 +1,2 @@
 # NYAC OpenRefine
-documentation for the project
+This workshop is derived from the 2018 DLF Metadata Analysis Workshop and materials developed by the Programming Historian.
